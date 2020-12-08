@@ -1,7 +1,8 @@
-# Project T Final: Team VOM
+# Project T Final: Team VOM - Best Practices for Writing/Documenting code
 Team Members: Vikash Raja, Musa Jalis, Otto Kwon
 
 **Project Objective:** 
+
 
 **Navigating the Repository:** 
 
