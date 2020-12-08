@@ -9,7 +9,7 @@ Student will review the basics of good code writing and documentation, including
 **Navigating the Repository:** 
 
 - `VOM_ProjectT_Notes.pdf` : Notes
-- `VOM_ProjectT_Slides` : Slide deck
+- `VOM_ProjectT_Slides.pdf` : Slide deck
 - `VOM_ProjectT_Quiz.pdf` : Quiz
 - `VOM_ProjectT_Assignment.ipynb` : Assignment
 - `VOM_ProjectT_Quiz_Solutions.pdf` : Quiz Solutions
